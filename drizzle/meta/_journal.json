@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1764604893960,
+      "tag": "0000_open_sue_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1764604984985,
+      "tag": "0001_numerous_lily_hollister",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1764615314017,
+      "tag": "0002_futuristic_patriot",
+      "breakpoints": true
+    }
+  ]
+}
